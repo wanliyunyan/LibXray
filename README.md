@@ -10,5 +10,5 @@ swift package compute-checksum LibXray.xcframework.zip
 ## 如果有冲突
 ```shell
 rm -rf ~/Library/Caches/org.swift.swiftpm
-xcodebuild -resolvePackageDependencies 
+rm -rf ~/Library/org.swift.swiftpm
 ```
