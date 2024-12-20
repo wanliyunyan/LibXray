@@ -8,7 +8,7 @@ zip -r LibXray.xcframework.zip LibXray.xcframework
 
 ## 校验
 ```shell
-swift package compute-checksum LibXray.xcframework.zip   // aac77417297a83a15b60e15de7dd0a59e82a9f95479c159c2b15152f5a5877c1
+swift package compute-checksum LibXray.xcframework.zip
 ```
 
 ## 如果有冲突
