@@ -1,4 +1,5 @@
 # LibXray
+https://github.com/XTLS/libXray  
 ios-arm64 ios-arm64_x86_64-simulator macos-arm64_x86_64
 
 # zip
